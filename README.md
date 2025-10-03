@@ -1,5 +1,7 @@
-Name: Albert Qin / Aleph / DJ Infi
+# Aleph Yinyu Qin
 
-Occupation: Student in Physics and Aerospace
+Occupation: Student in Aerospace and Technology Management
 
-Active Project: AV LED Dtrips
+Active Projects: 
+* Liquid Rocketry Illinois Maurice 2 Avionics
+* Liquid Rocketry Illinois Maurice 3 Avionics
